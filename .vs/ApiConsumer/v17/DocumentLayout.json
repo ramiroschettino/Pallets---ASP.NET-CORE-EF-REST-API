@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|c:\\users\\usuario\\source\\repos\\apiconsumer\\api\\controllers\\palletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|solutionrelative:api\\controllers\\palletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|c:\\users\\usuario\\source\\repos\\apiconsumer\\api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|solutionrelative:api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|c:\\users\\usuario\\source\\repos\\apiconsumer\\api\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|solutionrelative:api\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|c:\\users\\usuario\\source\\repos\\apiconsumer\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|c:\\users\\usuario\\source\\repos\\apiconsumer\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|c:\\users\\usuario\\source\\repos\\apiconsumer\\api\\models\\pallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12284B12-F9DF-467E-9128-FF0511298B66}|Api\\Api.csproj|solutionrelative:api\\models\\pallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PalletController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\Controllers\\PalletController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\PalletController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\Controllers\\PalletController.cs",
+              "RelativeToolTip": "Api\\Controllers\\PalletController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA9wD8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:10:49.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:36:59.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T23:31:31.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\Models\\Dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\Dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\Models\\Dto\\ResponseDto.cs",
+              "RelativeToolTip": "Api\\Models\\Dto\\ResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:22:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pallet.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\Models\\Pallet.cs",
+              "RelativeDocumentMoniker": "Api\\Models\\Pallet.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\Models\\Pallet.cs",
+              "RelativeToolTip": "Api\\Models\\Pallet.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAzwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:33:39.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ApiConsumer\\Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Api\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T16:30:30.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
