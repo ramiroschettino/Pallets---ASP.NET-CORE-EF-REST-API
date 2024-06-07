@@ -134,3 +134,4 @@ C:\Users\Usuario\source\repos\ApiConsumer\Api\obj\Debug\net8.0\refint\Api.dll
 C:\Users\Usuario\source\repos\ApiConsumer\Api\obj\Debug\net8.0\Api.pdb
 C:\Users\Usuario\source\repos\ApiConsumer\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\ApiConsumer\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\Usuario\source\repos\ApiConsumer\Api\obj\Debug\net8.0\Api.sourcelink.json

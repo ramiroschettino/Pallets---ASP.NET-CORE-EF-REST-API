@@ -40,12 +40,12 @@ namespace Api.Controllers
         public ResponseDto GetPalletById(int id)
         {
             try
-            {   
+            {
                 var pallet = _context.Pallets.FirstOrDefault(p => p.Id == id);
                 _response.Data = pallet;
             }
             catch (Exception ex)
-            { 
+            {
                 _response.isSuccess = false;
                 _response.Message = ex.Message;
             }
@@ -56,18 +56,59 @@ namespace Api.Controllers
         [HttpPost("InsertarPallet")]
         public ResponseDto InsertarPallet([FromBody] Pallet pallet)
         {
-            try 
+            try
             {
                 _context.Pallets.Add(pallet);
                 _context.SaveChanges();
 
                 _response.Data = pallet;
 
-            } catch (Exception ex) 
+            } catch (Exception ex)
             {
                 _response.isSuccess = false;
-                _response.Message = ex.Message; 
+                _response.Message = ex.Message;
             }
+            return _response;
+        }
+
+        [HttpPut("PutPallet")]
+        public ResponseDto PutPallet([FromBody] Pallet pallet) 
+        {
+
+            try 
+            {
+
+                _context.Pallets.Update(pallet);
+                _response.isSuccess = true;
+                _response.Data = pallet;
+
+            } catch (Exception ex)
+            {
+                _response.Message = ex.Message;
+                _response.isSuccess = false;
+            }
+
+            return _response;
+        }
+
+        [HttpDelete("DeleteById/{id}")]
+        public ResponseDto DeleteById(int id) 
+        {
+            try
+            {
+                var pallet = _context.Pallets.FirstOrDefault(p => p.Id == id);
+                _context.Pallets.Remove(pallet);
+                _context.SaveChanges();
+
+
+            }
+            catch (Exception ex)
+            { 
+                _response.isSuccess = false;
+                _response.Message = ex.Message;
+            }
+
+
             return _response;
         }
     }
